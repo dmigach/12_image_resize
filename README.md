@@ -53,11 +53,11 @@ To get arguments help type
 
     python image_resize.py example.png --scale 2
     
-Image will be enlarged twice and saved with same name but with resolution in name (example_2692x1132.png).
+Image size is doubled, image saved with same name but with resolution in name (example_2692x1132.png).
 
     python image_resize.py -w 500 example.png -o output.png
     
-Image width will be 500px, output picture named `output.png`.
+Image width will be 500px, output image named `output.png`.
 
     python image_resize.py -hg 500 -w 300 example.png
     
