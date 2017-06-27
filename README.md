@@ -41,7 +41,7 @@ To get arguments help type
 
 	python image_resize.py -h 
 	
-|
+#
 
 	-s, --scale SCALE
     -w, --width WIDTH
