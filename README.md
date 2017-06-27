@@ -43,10 +43,10 @@ To get arguments help type
 	
 #
 
-	-s, --scale SCALE
-    -w, --width WIDTH
-    -hg, --height HEIGHT
-    -o, --output OUTPUT
+	-s, --scale
+    -w, --width
+    -hg, --height
+    -o, --output
 
 	
 ## Examples
